@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/기타/작은 따옴표 문자열을 큰따옴표 문자열로 바꾸기" />
+  </component>
+</application>

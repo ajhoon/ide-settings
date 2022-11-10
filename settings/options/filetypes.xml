@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="5555555" type="AUTO_DETECTED" />
+      <mapping pattern="111" type="AUTO_DETECTED" />
+      <mapping pattern="123123123" type="AUTO_DETECTED" />
+      <mapping pattern="1111" type="AUTO_DETECTED" />
+      <mapping pattern="1123123123" type="AUTO_DETECTED" />
+      <mapping pattern="111222333" type="AUTO_DETECTED" />
+      <mapping pattern="345456456" type="AUTO_DETECTED" />
+      <mapping pattern="11" type="AUTO_DETECTED" />
+      <mapping pattern="123123" type="AUTO_DETECTED" />
+      <mapping ext="ng" type="HTML" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
